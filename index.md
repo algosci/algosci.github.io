@@ -1,4 +1,3 @@
 [About](./about.md)  
 
-
-[Article 1](./algosciq.md) 
+[Stock Machine Learning and Predictions](./algosciq.md) 
